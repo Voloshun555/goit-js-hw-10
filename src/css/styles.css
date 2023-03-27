@@ -18,3 +18,21 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+.link {
+   display: flex;
+
+}
+
+.list-name {
+margin-left: 15px;
+
+}
+
+.cauntry-items{
+  display: flex;
+    flex-direction: column;
+    align-content: space-between;
+    justify-content: center;
+    align-items: center;
+}
